@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 
 esta es una anotacion en la rama de benjamin
+=======
+esta es una nota hecha en la rama de ariadna
+>>>>>>> ariadna
